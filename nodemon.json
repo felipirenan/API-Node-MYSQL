@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "MYSQL_USER" : "root",
+        "MYSQL_PASSWORD" : 123456578,
+        "MYSQL_DATABASE" : "db_barbearia",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : 3306
+    }
+}
